@@ -5,6 +5,7 @@ This project focuses on analyzing people’s reactions to AI language models, sp
 The purpose of this project is to scrape tweets containing the hashtag “#chatGPT” and perform sentiment analysis on the collected tweets. This will help us understand the general sentiment of Twitter users towards AI language models like ChatGPT over a specified period.
 
 Libraries used:
+
 	1.	snscrape
 	2.	pandas
 	3.	nltk
